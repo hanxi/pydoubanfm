@@ -14,7 +14,7 @@ GenericName=Music Player\n
 Type=Application\n
 Categories=AudioVideo;Player;GTK;\n
 StartupNotify=true\n
-Exec=$HOME/.pydoubanfm/doubanfm.py\n
+Exec=$HOME/.pydoubanfm/douban.py\n
 Icon=$HOME/.pydoubanfm/DoubanRadio.png\n"
 
 #echo -e $desktop
